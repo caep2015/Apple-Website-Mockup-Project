@@ -1,3 +1,5 @@
+The Iron Yard Week 1, Day 3: Activity practice styling CSS Properties
+
 # Apple-Website-Mockup-Project
 Project to practice styling CSS Properties
 CSS styling project. Replica that captures the general layout of the page.
